@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "56A88154-B72B-42D8-9AC5-66E55CCE70A3",
+  "do_objectID": "DE99A471-1A0B-4101-907F-FDA27465466A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 206,
     "width": 302,
-    "x": 1254,
-    "y": 1232
+    "x": 3306,
+    "y": 156
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,12 +28,14 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "icon box center copy 2",
+  "name": "icon box center",
   "nameIsFixed": false,
   "overrides": {
-    "2D43B13A-D0A7-4BC2-94F6-654062D9013E": "Freindly Support",
-    "4C4FFD03-001B-4577-A426-899B0423DAB8": "Design Agency",
+    "2D43B13A-D0A7-4BC2-94F6-654062D9013E": "Interior design",
     "91999DF1-AF3C-4156-8752-544AF166074D": {
+      "symbolID": "F2124470-8403-4A62-A63B-645D119E5BD3"
+    },
+    "AAAA6928-16FE-4CBB-AB13-24FD142E76FF": {
       "symbolID": "FDDAE1A1-6708-40FC-A12E-D41F65C66419"
     }
   },

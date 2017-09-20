@@ -51,6 +51,18 @@
     {
       "class": "artboard",
       "id": "F6E44FC4-E610-4B32-986A-9B78F5158FBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE99A471-1A0B-4101-907F-FDA27465466A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0DF7D605-21A1-413C-996E-59C2949CDA7D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56A88154-B72B-42D8-9AC5-66E55CCE70A3"
     }
   ],
   "name": "Page 1",
