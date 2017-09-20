@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0DF7D605-21A1-413C-996E-59C2949CDA7D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 206,
+    "width": 302,
+    "x": 833,
+    "y": 1232
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 414,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "icon box center copy",
+  "nameIsFixed": false,
+  "overrides": {
+    "2D43B13A-D0A7-4BC2-94F6-654062D9013E": "Perfect Pixels",
+    "4C4FFD03-001B-4577-A426-899B0423DAB8": "High Pixels",
+    "91999DF1-AF3C-4156-8752-544AF166074D": {
+      "symbolID": "EA9BD274-2EE8-4036-B355-E890197FF9B3"
+    },
+    "AAAA6928-16FE-4CBB-AB13-24FD142E76FF": {
+      "symbolID": "EA9BD274-2EE8-4036-B355-E890197FF9B3"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AF1DB829-24CC-406E-ACA0-FCA05C2ACDAF",
+  "verticalSpacing": 0
+}

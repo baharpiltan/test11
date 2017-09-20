@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "56A88154-B72B-42D8-9AC5-66E55CCE70A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 206,
+    "width": 302,
+    "x": 1254,
+    "y": 1232
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 414,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "icon box center copy 2",
+  "nameIsFixed": false,
+  "overrides": {
+    "2D43B13A-D0A7-4BC2-94F6-654062D9013E": "Freindly Support",
+    "4C4FFD03-001B-4577-A426-899B0423DAB8": "Design Agency",
+    "91999DF1-AF3C-4156-8752-544AF166074D": {
+      "symbolID": "FDDAE1A1-6708-40FC-A12E-D41F65C66419"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AF1DB829-24CC-406E-ACA0-FCA05C2ACDAF",
+  "verticalSpacing": 0
+}
